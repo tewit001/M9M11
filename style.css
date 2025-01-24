@@ -223,7 +223,7 @@ a{
     box-shadow: 0 4px 8px 0 rgb(128, 255, 44), 0 6px 20px 0 rgb(240, 114, 12);
     align-items: center;
     animation-fill-mode: none;
-    transition: 0.5s;
+     transition: 0.5s;
 }
 
 .toph-info img:hover{
@@ -248,20 +248,34 @@ a{
     background-color: rgb(138, 255, 128);
     color: black;
     box-shadow: 0 4px 8px 0;
+    align-items: center;
+     transition: 0.5s;
 }
 
 .content-item2{
     padding: 12px;
     background-color: rgb(101, 248, 33);
     box-shadow: 0 4px 8px 0;
+    align-items: center;
+     transition: 0.5s;
 }
 
 .content-item3{
     padding: 12px;
     background-color: rgb(138, 255, 128);
     box-shadow: 0 4px 8px 0;
+    align-items: center;
+     transition: 0.5s;
 }
 
-.content-item h3{
+.content-item:hover{
+    transform: scale(1.05);
+}
 
+.content-item2:hover{
+    transform: scale(1.05);
+}
+
+.content-item3:hover{
+    transform: scale(1.05);
 }
