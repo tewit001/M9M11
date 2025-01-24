@@ -249,7 +249,7 @@ a{
     color: black;
     box-shadow: 0 4px 8px 0;
     align-items: center;
-     transition: 0.5s;
+    transition: 0.5s;
 }
 
 .content-item2{
@@ -257,7 +257,7 @@ a{
     background-color: rgb(101, 248, 33);
     box-shadow: 0 4px 8px 0;
     align-items: center;
-     transition: 0.5s;
+    transition: 0.5s;
 }
 
 .content-item3{
@@ -265,7 +265,7 @@ a{
     background-color: rgb(138, 255, 128);
     box-shadow: 0 4px 8px 0;
     align-items: center;
-     transition: 0.5s;
+    transition: 0.5s;
 }
 
 .content-item:hover{
